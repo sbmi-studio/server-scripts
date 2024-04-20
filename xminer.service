@@ -1,0 +1,5 @@
+[Unit]
+Description=Send Multiple Args to Xelis Daemon
+
+[Service]
+ExecStart=/bin/bash /home/christian/server-scripts/start-xminer.sh
