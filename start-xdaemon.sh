@@ -1,2 +1,2 @@
 #!/bin/bash
-./home/ubuntu/xelis-blockchain/target/release/xelis_daemon
+./home/christian/xelis-blockchain/target/release/xelis_daemon
